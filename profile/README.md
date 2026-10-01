@@ -91,7 +91,7 @@ Each repository has its own README with setup steps. Typical local ports:
 | --- | --- |
 | `be-node-ts` (finance API) | 8080 |
 | `be-auth-ts` (auth API) | 8081 |
-| `be-ai-ocr-service` | 3000 |
+| `be-ai-ocr-service` | 8888 |
 
 Start order: databases, then `be-auth-ts`, `be-node-ts`, `be-ai-ocr-service`, and finally `fe-web`.
 
